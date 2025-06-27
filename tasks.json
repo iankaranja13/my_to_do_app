@@ -1,9 +1,38 @@
 [
     {
-        "id": 2,
-        "title": "Title",
-        "description": "Description",
-        "due_date": "2025-06-30",
-        "completed": false
+        "task_id": 1,
+        "task_title": "qwerty",
+        "task_description": "rtyui",
+        "task_status": "Pending",
+        "task_due_date": "2025-4-4",
+        "task_created_date": "2025-06-26",
+        "task_status_updated_date": null
+    },
+    {
+        "task_id": 1,
+        "task_title": "DirectEd",
+        "task_description": "Working on modules for Gen AI tech track",
+        "task_status": "Pending",
+        "task_due_date": "2025-06-27",
+        "task_created_date": "2025-06-26",
+        "task_status_updated_date": null
+    },
+    {
+        "task_id": 1,
+        "task_title": "qwert",
+        "task_description": "qwerty",
+        "task_status": "Pending",
+        "task_due_date": "we",
+        "task_created_date": "2025-06-26",
+        "task_status_updated_date": null
+    },
+    {
+        "task_id": 2,
+        "task_title": "qwertyuio",
+        "task_description": "zxcvbn",
+        "task_status": "Over Due",
+        "task_due_date": "2023-3-5",
+        "task_created_date": "2025-06-27",
+        "task_status_updated_date": null
     }
 ]
